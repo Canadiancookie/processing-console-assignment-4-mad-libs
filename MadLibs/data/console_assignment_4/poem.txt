@@ -1,10 +1,10 @@
-One Inch Tall
-If you were only one inch tall, you'd ride a worm to school.
-The teardrop of a crying ant would be your swimming pool.
-A crumb of cake would be a feast
-And last you seven days at least,
-A flea would be a frightening beast
-If you were one inch tall.
+One <noun> Tall
+If you were only one inch tall, you'd <verb> a <noun> to school.
+The teardrop of a <verb> <noun> would be your swimming pool.
+A crumb of <noun> would be a feast
+And last you seven <noun> at least,
+A <noun> would be a <adjective> beast
+If you were one <noun> tall.
 
 If you were only one inch tall, you'd walk beneath the door,
 And it would take about a month to get down to the store.
