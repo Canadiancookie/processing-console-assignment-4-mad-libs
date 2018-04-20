@@ -21,6 +21,8 @@ void setup() {
   for (i = 0 ; i < poem.length; i++) {
     int n = int(random(nouns.length -1));
     poem[i] = poem[i].replaceAll("<noun>", nouns[n]);
+    poem[i] = poem[i].replaceAll("<verb>", nouns[n]);
+    poem[i] = poem[i].replaceAll("<adjective>", nouns[n]);
     println(poem[i]);
   }
   
